@@ -8,12 +8,12 @@
 # META   },
 # META   "dependencies": {
 # META     "lakehouse": {
-# META       "default_lakehouse": "dc2f6ddc-834f-4554-bde5-59dcc312d0be",
+# META       "default_lakehouse": "75e3016d-8f08-4dae-8541-b28aab1413e4",
 # META       "default_lakehouse_name": "ZavaOps_LH",
-# META       "default_lakehouse_workspace_id": "bbae4f79-0b3f-4e6f-8849-531020cd6602",
+# META       "default_lakehouse_workspace_id": "3fb4f093-35a1-4935-99cb-0517420a7fb8",
 # META       "known_lakehouses": [
 # META         {
-# META           "id": "dc2f6ddc-834f-4554-bde5-59dcc312d0be"
+# META           "id": "75e3016d-8f08-4dae-8541-b28aab1413e4"
 # META         }
 # META       ]
 # META     }
